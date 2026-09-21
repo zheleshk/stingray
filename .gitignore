@@ -54,3 +54,8 @@ qtcreator-*
 # Catkin custom files
 CATKIN_IGNORE
 .cache/*
+
+1
+1.pub
+y
+y.pub
